@@ -1,0 +1,27 @@
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Distribution/packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.env
+.venv
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Local settings
+instance/
+
+static/uploads
+detected_faces
+face_embeddings
+# models
+
+db.sqlite3
